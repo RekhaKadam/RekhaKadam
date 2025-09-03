@@ -1,3 +1,4 @@
+<!-- filepath: d:\rk\Readme.md -->
 # 🎭 Welcome to My Digital Playground! 
 
 <div align="center">
@@ -50,13 +51,6 @@ const developer = {
 
 </div>
 
-## 📊 GitHub Stats (AKA My Bragging Rights)
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical"/>
-</div>
-
 ## 🎮 Fun Interactive Section
 
 ### 🎲 Random Developer Joke
@@ -65,9 +59,13 @@ const developer = {
   <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
 </div>
 
-### 🐍 Watch My Contributions Get Eaten!
+### 🐍 Contribution Snake Game
 <div align="center">
-  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ## 🏆 Achievement Unlocked
@@ -116,7 +114,6 @@ const developer = {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=brightgreen&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=blue)
-![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&color=yellow)
 
 </div>
 
