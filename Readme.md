@@ -11,8 +11,8 @@
 
 ```javascript
 const developer = {
-    name: "Your Name Here",
-    pronouns: "they/them", // Update as needed
+    name: "Rekha Kadam",
+    pronouns: "She/Her", // Update as needed
     location: "Earth 🌍",
     currentlyDoing: "Turning coffee into code ☕➡️💻",
     funFact: "I debug code better than my life decisions",
@@ -59,9 +59,9 @@ const developer = {
   <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
 </div>
 
-### 🐍 Contribution Snake Game
+### 🐍 My GitHub Activity
 <div align="center">
-  <img src="https://github.com/RekhaKadam/RekhaKadam/blob/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RekhaKadam&theme=radical&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </div>
 
 ## 🏆 Achievement Unlocked
@@ -83,8 +83,6 @@ const developer = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR_WEBSITE.com)
 
 </div>
